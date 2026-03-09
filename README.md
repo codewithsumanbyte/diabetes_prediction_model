@@ -87,7 +87,7 @@ Improve UI/UX design
 Deploy on cloud platforms (Heroku / Render)
 Add REST API support
 Enhance model accuracy
-👨‍💻 Author
+👨‍💻 Creator 
 Suman Banerjee
 AI & ML Engineering Student
 Magneta Institute of Technology, Kolkata
